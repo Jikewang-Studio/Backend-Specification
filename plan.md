@@ -6,7 +6,7 @@
 
 # 3. SSH
 
-# 4. GIt,Maven
+# 4. Git,Maven
 
 # 5. SSM
 
@@ -28,5 +28,7 @@
 - JVM
 - MySQL 优化
 # 10 Linux
-# 11 PHP,Python,go
-# 12 Apache,Nginx常见使用，反向代理、
+# 11 PHP,Python,GO
+# 12 Apache,Nginx常见使用，反向代理，负载均衡
+# 13 docker
+# 14 jenkins
